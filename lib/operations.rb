@@ -1,23 +1,23 @@
-def unsafe?(speed)
+#def unsafe?(speed)
   
-if speed < 40
+#if speed < 40
   
-   true
+   #true
   
-elsif speed > 60 
-   true 
+#elsif speed > 60 
+   #true 
 
-else
-  false 
-  end  
-end
+#else
+  #false 
+  #end  
+#end
 
 
 
-def not_safe?(speed)
-	speed < 40 || speed >60 ? true : false
+#def not_safe?(speed)
+	#speed < 40 || speed >60 ? true : false
 
-end
+#end
 	
 
 
